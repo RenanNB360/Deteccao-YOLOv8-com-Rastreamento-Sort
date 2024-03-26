@@ -1,0 +1,1 @@
+# Deteccao-YOLOv8-com-Rastreamento-Sort
